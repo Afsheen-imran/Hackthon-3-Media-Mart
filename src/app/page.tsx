@@ -50,7 +50,7 @@ export default function HomePage() {
               </div>
               <div className="relative h-[300px] md:h-[400px] lg:h-[500px] w-full animate-on-scroll">
                 <Image
-                  src="/images/hom.jpg"
+                  src="/images/cosmatic.png"
                   alt="Featured Products"
                   fill
                   className="object-contain"
